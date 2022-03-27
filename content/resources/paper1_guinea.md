@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fc03797-ed74-2507-ba37-fbf36cad196a
 resourcetype: Document
 title: paper1_guinea.pdf
 uid: 1e0119cc-2a60-3cc1-b86c-618e23cb6d14

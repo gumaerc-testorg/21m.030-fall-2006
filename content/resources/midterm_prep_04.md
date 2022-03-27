@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c2030759-2096-1cbd-4dd1-2c8a1a2756e1
 resourcetype: Document
 title: midterm_prep_04.pdf
 uid: 7b054f8a-657d-06ca-e509-10968e60d426

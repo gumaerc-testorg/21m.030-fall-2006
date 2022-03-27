@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c2030759-2096-1cbd-4dd1-2c8a1a2756e1
 resourcetype: Document
 title: final_prep_05.pdf
 uid: a1ed5769-e5b1-6749-e4f0-fd7754a90822

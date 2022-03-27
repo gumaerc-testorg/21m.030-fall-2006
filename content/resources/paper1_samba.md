@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6fc03797-ed74-2507-ba37-fbf36cad196a
 resourcetype: Document
 title: paper1_samba.pdf
 uid: 0adaf7d8-8a2a-f9e2-84c7-d05a9ba5e94c
