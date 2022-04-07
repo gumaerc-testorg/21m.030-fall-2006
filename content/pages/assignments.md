@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 6fc03797-ed74-2507-ba37-fbf36cad196a
 ---
@@ -24,24 +25,24 @@ Paper 2 will show live interaction with your chosen culture through concerts, in
 
 There will be expected to be a spirit of freshness and objectivity in your writing, so it is preferred that you choose a culture of which you are not a personal representative.
 
-Guidelines for Formatting Papers ([PDF]({{< baseurl >}}/resources/papers_format))
+Guidelines for Formatting Papers ({{< resource_link 927924c2-0ccc-63f7-ae23-32fd013d1f8b "PDF" >}})
 
 The following examples of student work are included courtesy of the students and used with permission.
 
 Paper 1: Exploring a Musical Culture through Background Research
 ----------------------------------------------------------------
 
-Assignment Description ([PDF]({{< baseurl >}}/resources/paper1))
+Assignment Description ({{< resource_link 236e4179-aa76-b0f6-764a-54c209dabc72 "PDF" >}})
 
 Example papers:
 
-"Samba: Brazil’s Defining Personality" by Aaron Sarfati ([PDF]({{< baseurl >}}/resources/paper1_samba))  
-"Maninka Music in Guinea" by anonymous student ([PDF]({{< baseurl >}}/resources/paper1_guinea))
+"Samba: Brazil’s Defining Personality" by Aaron Sarfati ({{< resource_link 0adaf7d8-8a2a-f9e2-84c7-d05a9ba5e94c "PDF" >}})  
+"Maninka Music in Guinea" by anonymous student ({{< resource_link 1e0119cc-2a60-3cc1-b86c-618e23cb6d14 "PDF" >}})
 
 Paper 2: Experiencing a Living Musical Culture
 ----------------------------------------------
 
 Example papers:
 
-"The Samba Experience" by Aaron Sarfati ([PDF]({{< baseurl >}}/resources/paper2_samba))  
-"Ba Cissoko" by anonymous student ([PDF]({{< baseurl >}}/resources/paper2_guinea))
+"The Samba Experience" by Aaron Sarfati ({{< resource_link a6cc292e-b0e5-55d9-caca-cb4e0ab0a0d3 "PDF" >}})  
+"Ba Cissoko" by anonymous student ({{< resource_link f2fb8892-0efb-b26f-ef4c-6853ecbfedbf "PDF" >}})
