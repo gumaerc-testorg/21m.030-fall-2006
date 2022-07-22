@@ -5,6 +5,7 @@ file: /courses/21m-030-introduction-to-world-music-fall-2006/f2fb88920efbb26fef4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper2_guinea.pdf
 uid: f2fb8892-0efb-b26f-ef4c-6853ecbfedbf
 ---
 Sample paper by an anonymous student in the course.
-

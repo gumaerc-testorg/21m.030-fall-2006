@@ -5,6 +5,7 @@ file: /courses/21m-030-introduction-to-world-music-fall-2006/1e0119cc2a603cc1b86
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper1_guinea.pdf
 uid: 1e0119cc-2a60-3cc1-b86c-618e23cb6d14
 ---
 Sample paper about dance culture in Guinea.
-

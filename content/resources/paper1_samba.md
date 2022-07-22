@@ -5,6 +5,7 @@ file: /courses/21m-030-introduction-to-world-music-fall-2006/0adaf7d88a2af9e284c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper1_samba.pdf
 uid: 0adaf7d8-8a2a-f9e2-84c7-d05a9ba5e94c
 ---
 Sample student paper courtesy of Aaron Sarfati.
-
