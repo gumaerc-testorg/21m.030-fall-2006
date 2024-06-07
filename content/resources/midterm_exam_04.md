@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz problems.
 file: /courses/21m-030-introduction-to-world-music-fall-2006/99048f4540c09c9d5a3c1c6627044ba2_midterm_exam_04.pdf
+file_size: 98305
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
