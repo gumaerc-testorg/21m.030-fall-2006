@@ -2,6 +2,7 @@
 content_type: resource
 description: Formatting guidelines for the paper assignment.
 file: /courses/21m-030-introduction-to-world-music-fall-2006/927924c20ccc63f7ae2332fd013d1f8b_papers_format.pdf
+file_size: 28756
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: Exam preparation guidelines and notes covering instrument classification,
   rhythm, pitch, structure.
 file: /courses/21m-030-introduction-to-world-music-fall-2006/7b054f8a657d06cae50910968e60d426_midterm_prep_04.pdf
+file_size: 75024
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
