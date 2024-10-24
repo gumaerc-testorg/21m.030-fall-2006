@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and suggestions for exam preparation.
-file: /courses/21m-030-introduction-to-world-music-fall-2006/a1ed5769e5b16749e4f0fd7754a90822_final_prep_05.pdf
+file: /ol-ocw-studio-app/courses/21m-030-introduction-to-world-music-fall-2006/a1ed5769e5b16749e4f0fd7754a90822_final_prep_05.pdf
 file_size: 50157
 file_type: application/pdf
 learning_resource_types: []
