@@ -7,7 +7,7 @@ description: A two-part research project. The first essay asks you to define a c
   the field? and will concentrate on the particular description of the music and its
   context. There must be a living component to these papers?researching just recordings
   and books will not be sufficient.
-file: /courses/21m-030-introduction-to-world-music-fall-2006/236e4179aa76b0f6764a54c209dabc72_paper1.pdf
+file: /ol-ocw-studio-app/courses/21m-030-introduction-to-world-music-fall-2006/236e4179aa76b0f6764a54c209dabc72_paper1.pdf
 file_size: 22141
 file_type: application/pdf
 learning_resource_types:
