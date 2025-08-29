@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student paper courtesy of Aaron Sarfati.
-file: /courses/21m-030-introduction-to-world-music-fall-2006/0adaf7d88a2af9e284c7d05a9ba5e94c_paper1_samba.pdf
+file: /ol-ocw-studio-app/courses/21m-030-introduction-to-world-music-fall-2006/0adaf7d88a2af9e284c7d05a9ba5e94c_paper1_samba.pdf
 file_size: 43097
 file_type: application/pdf
 learning_resource_types:
