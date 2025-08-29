@@ -2,7 +2,7 @@
 content_type: resource
 description: This sample paper by Aaron Sarfati discusses examining and researching
   a foreign culture.
-file: /courses/21m-030-introduction-to-world-music-fall-2006/a6cc292eb0e555d9cacacb4e0ab0a0d3_paper2_samba.pdf
+file: /ol-ocw-studio-app/courses/21m-030-introduction-to-world-music-fall-2006/a6cc292eb0e555d9cacacb4e0ab0a0d3_paper2_samba.pdf
 file_size: 37934
 file_type: application/pdf
 learning_resource_types:
